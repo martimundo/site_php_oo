@@ -1,0 +1,16 @@
+{
+    "name": "marcos_artimundo/site_php_oo",
+    "description": "Projeto de Site criado com o PHP sem framework e orientado a objetos",
+    "authors": [
+        {
+            "name": "Marcos Roberto Artimundo",
+            "email": "martimundo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Core\\":"core"
+        }
+    },
+    "require": {}
+}
